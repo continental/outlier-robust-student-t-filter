@@ -1,0 +1,9 @@
+doc/build
+doc/build/doctrees
+doc/source/generated
+__pycache__
+data/quantitative_results/**/*.pickle
+.vscode/
+**/.ipynb_checkpoints
+blackduck.sh
+unrelated*

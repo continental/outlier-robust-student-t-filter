@@ -1,0 +1,5 @@
+
+#################
+Most recent best parameters:
+{'obs_delta': 2.1737, 'process_gamma': 12.387500000000001, 'state_nu': 4.404100000000001}
+#################

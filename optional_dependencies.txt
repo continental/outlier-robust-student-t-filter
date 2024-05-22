@@ -1,0 +1,4 @@
+# These packages are only used to display rendered PDF documents inside an ipython notebook
+# and thus only needed as additional quality-of-life features.
+# They can be installed similarly to the requirements.txt
+PyMuPDF==1.24.1
